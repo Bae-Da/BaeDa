@@ -1,13 +1,4 @@
 ---
-name: feat
-about: 프로젝트에 관한 모든 아이디어, 기능을 적어주세요!
-title: "[FEAT]"
-labels: ''
-assignees: ''
-
----
-
----
 name: Feat
 about: 프로젝트에 관한 모든 아이디어, 기능을 적어주세요!
 title: "[Feat]"
