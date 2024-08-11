@@ -7,7 +7,7 @@ import lombok.RequiredArgsConstructor;
 @RequiredArgsConstructor
 public enum ErrorCode {
 
-    MEMBER_NOT_FOUND(404, "Member not found");
+    USER_NOT_FOUND(404, "User not found");
 
     private final int status;
     private final String message;
