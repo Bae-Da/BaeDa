@@ -1,6 +1,6 @@
-package com.baeda.user;
+package com.baeda.baeda.user;
 
-import com.baeda.user.dto.CreateUserRequest;
+import com.baeda.baeda.user.dto.CreateUserRequest;
 import jakarta.validation.Valid;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;

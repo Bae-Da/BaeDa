@@ -1,6 +1,6 @@
-package com.baeda.user;
+package com.baeda.baeda.user;
 
-import com.baeda.common.entity.BaseTimeEntity;
+import com.baeda.baeda.entity.BaseTimeEntity;
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.EnumType;

@@ -1,4 +1,4 @@
-package com.baeda.auth.jwt;
+package com.baeda.baeda.auth.jwt;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jws;

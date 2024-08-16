@@ -1,4 +1,4 @@
-package com.baeda.common.entity;
+package com.baeda.baeda.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.EntityListeners;

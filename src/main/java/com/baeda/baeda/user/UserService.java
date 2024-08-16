@@ -1,9 +1,9 @@
-package com.baeda.user;
+package com.baeda.baeda.user;
 
-import com.baeda.common.exception.BusinessLogicException;
-import com.baeda.common.exception.ErrorCode;
-import com.baeda.common.util.EnumConverter;
-import com.baeda.user.dto.CreateUserRequest;
+import com.baeda.baeda.common.exception.BusinessLogicException;
+import com.baeda.baeda.common.exception.ErrorCode;
+import com.baeda.baeda.common.util.EnumConverter;
+import com.baeda.baeda.user.dto.CreateUserRequest;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetailsService;
 import org.springframework.security.core.userdetails.UsernameNotFoundException;

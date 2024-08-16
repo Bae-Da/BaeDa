@@ -1,4 +1,4 @@
-package com.baeda.config;
+package com.baeda.baeda.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

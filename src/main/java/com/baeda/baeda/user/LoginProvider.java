@@ -1,4 +1,4 @@
-package com.baeda.user;
+package com.baeda.baeda.user;
 
 public enum LoginProvider {
     LOCAL, KAKAO, GOOGLE;

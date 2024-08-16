@@ -1,6 +1,6 @@
-package com.baeda.common.util;
+package com.baeda.baeda.common.util;
 
-import com.baeda.user.Team;
+import com.baeda.baeda.user.Team;
 
 public class EnumConverter {
     public static Team convertToTeam(String team) {

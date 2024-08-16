@@ -1,4 +1,4 @@
-package com.baeda.common.exception;
+package com.baeda.baeda.common.exception;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
