@@ -19,15 +19,10 @@ public class UserController {
 
     private final UserService userService;
 
-    @GetMapping
-    public ResponseEntity<String> check(){
-        return ResponseEntity.ok().build();
-    }
-
     @GetMapping("/signup")
     public String showSignupForm(Model model) {
         model.addAttribute("createUserRequest",
-            new CreateUserRequest(null, null, null, null));
+            new CreateUserRequest(null,null,null,null));
         return "user/signup";
     }
 
@@ -39,6 +34,7 @@ public class UserController {
         }
 
         userService.createUser(createUserRequest);
+        //Todo : 로그인 페이지 및 인증 과정 구현
         return "redirect:auth/login";
     }
 }
